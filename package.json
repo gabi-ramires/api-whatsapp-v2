@@ -5,8 +5,7 @@
   "main": "app.js",
   "scripts": {
     "start": "node botzdg.js",
-    "start:dev": "nodemon botzdg.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start:dev": "nodemon botzdg.js"
   },
   "keywords": [
     "whatsapp-api",
